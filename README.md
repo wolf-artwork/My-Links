@@ -18,9 +18,6 @@ Page with my Links with professional informations such as Professional profile, 
 
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Technologies
 
