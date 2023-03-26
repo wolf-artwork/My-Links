@@ -13,13 +13,7 @@ Page with my Links with professional informations such as Professional profile, 
 </p>
 
 <p align="center">
-  <img alt="Dev Links" src=".github/preview.jpg" widht="100%">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Original Layout" src=".github/preview.jpg" widht="100%">
 </p>
 
 ## 🚀 Technologies
