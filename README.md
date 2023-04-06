@@ -12,8 +12,12 @@ Page with my Links with professional informations such as Professional profile, 
   <a href="#memo-licença">Licence</a>
 </p>
 
-<p align="center">
+<p align="center">Original Layout
   <img alt="Original Layout" src=".github/preview.jpg" widht="100%">
+</p>
+
+<p align="center">My Layout
+  <img alt="My Layout" src="https://imagizer.imageshack.com/v2/1334x666q70/923/WLW0FB.png" widht="100%">
 </p>
 
 ## 🚀 Technologies
